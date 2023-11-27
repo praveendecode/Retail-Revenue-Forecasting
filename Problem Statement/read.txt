@@ -1,1 +1,44 @@
+ # Overview:
 
+The retail forecast dataset from Kaggle encompasses crucial information about store and department-wise sales, marked by key features such as weather conditions, fuel prices, markdowns, and economic indicators. The goal is to decipher patterns, predict future sales, and derive actionable insights for strategic decision-making.
+
+# Feature Explanation:
+
+    Store and Dept:
+        Identifiers for the store and department, providing a granular view of sales.
+
+    IsHoliday:
+        Binary indicator denoting whether a week includes a holiday.
+
+    Temperature and Fuel_Price:
+        Weather-related features influencing consumer behavior and operational costs.
+
+    Day, Month, Year:
+        Temporal attributes capturing the timing of sales.
+
+    Type and Size:
+        Store characteristics impacting sales, including size and store type.
+
+    MarkDowns (1-5):
+        Promotional markdowns influencing sales during holiday weeks.
+
+    CPI and Unemployment:
+        Economic indicators affecting consumer spending patterns.
+
+    Weekly_Sales:
+        The target variable, representing weekly department-wide sales.
+
+# Task Overview:
+
+    Predict Department-wide Sales:
+        Utilize historical data to forecast sales for each department in every store for the upcoming year.
+
+    Model Effects of Markdowns on Holidays:
+        Investigate the impact of promotional markdowns during holiday weeks on sales.
+
+    Provide Recommended Actions:
+        Derive actionable insights and prioritize recommendations based on observed patterns and relationships, focusing on the most significant business impact.
+
+# Insight Prioritization:
+
+    Identify key insights that can drive strategic decisions and enhance overall business performance, ensuring prioritization aligns with maximizing impact.
