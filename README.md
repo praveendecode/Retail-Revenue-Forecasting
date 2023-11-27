@@ -1,6 +1,7 @@
 # Retail Revenue Forecasting
 
-![image](https://github.com/praveendecode/Retail-Revenue-Forecasting/assets/95226524/ff31622a-a13a-4ace-9f56-96aabb1b4d46)
+![image](https://github.com/praveendecode/Retail-Revenue-Forecasting/assets/95226524/6e37679a-50c7-49a3-8d88-045ac972a3f7)
+
 
 
 # Overview :
