@@ -60,7 +60,7 @@
 
 # Tools Covered:
 
-= Python
+- Python
 - Azure
 - Docker
 - Streamlit
