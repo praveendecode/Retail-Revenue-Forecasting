@@ -5,7 +5,7 @@ The retail forecast dataset from Kaggle encompasses crucial information about st
 # Feature Explanation:
 
     Store and Dept:
-        Identifiers for the store and department, providing a granular view of sales.
+        Identifiers for the store and department, providing a granular view of sales
 
     IsHoliday:
         Binary indicator denoting whether a week includes a holiday.
