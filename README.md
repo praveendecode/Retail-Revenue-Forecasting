@@ -81,5 +81,5 @@
 - Identified key drivers influencing sales through feature importance analysis.
 - Deployed a user-friendly predictive model accessible via Azure, Docker, and Streamlit
   
-# This project integrates advanced tools and methodologies to address the complexity of retail revenue forecasting, ultimately empowering strategic decision-making for substantial business impact
+### This project integrates advanced tools and methodologies to address the complexity of retail revenue forecasting, ultimately empowering strategic decision-making for substantial business impact
 
