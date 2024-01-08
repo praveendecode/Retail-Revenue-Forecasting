@@ -3,7 +3,7 @@
 ![image](https://github.com/praveendecode/Retail-Revenue-Forecasting/assets/95226524/6e37679a-50c7-49a3-8d88-045ac972a3f7)
 
 
-
+ 
 # Overview :
    The challenge is to forecast department-wide sales for each store in the upcoming year, considering the influence of weather conditions, fuel prices, markdowns, and economic indicators. The objective is to decipher patterns, predict future sales, and derive actionable insights for strategic decision-making
 
