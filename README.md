@@ -51,6 +51,8 @@
   ### Model Deployment:
   
   - Deployed the model using Azure, Docker, and Streamlit for user-friendly access.
+  ![image](https://github.com/praveendecode/Retail-Revenue-Forecasting/assets/95226524/a48b77fb-41cd-4115-888c-b420dca93767)
+  
 
   ## Report:
 
